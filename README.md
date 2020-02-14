@@ -7,10 +7,7 @@ au2mator - Self Service Portal is providing a Frontend to trigger your Microsoft
 - Azure Automation
 - Powershell
 
-This Script can be used to Export SCOM Configuration
-
-Based on https://gallery.technet.microsoft.com/scriptcenter/ExportEffectiveMonitoringCo-05d58912?fbclid=IwAR1dKU7eXTHy6FAu0yU1CJBtRGOBBJA6yQkg4XslaiwN1eEFE2Yicg5Y0ek
-Tyson Paul
+This Script can be used to remove a Maintenance Mode Schedule
 
 # Getting Started
 
